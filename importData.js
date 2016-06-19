@@ -7,6 +7,7 @@ var htmlAll 		= '';
 var tableData 		= {};
 var selectOptions 	= {};
 
+var statNum 		= '159';
 var yearsToPull 	= 20;
 var currentYear 	= 2016;
 
@@ -169,7 +170,6 @@ callback = function(response) {
 
 function retrieveData(){
 	var year 		= currentYear;
-	var statNum 	= '101';
 	var basePath 	= '/stats/stat.' + statNum + '.';
 	var currentPath = '';
 	var options 	= {
