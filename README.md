@@ -9,7 +9,7 @@ var statNum = <statID>
 * statlist.json contains a list of statIDs
 
 
-### Run:
+### Run
 ```javascript
 node importData.js
 ```
