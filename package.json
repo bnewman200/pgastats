@@ -1,0 +1,21 @@
+{
+  "name": "pgastats",
+  "version": "1.0.0",
+  "description": "Will pull stats from pgatour.com",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnewman200/pgastats.git"
+  },
+  "author": "Billy Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnewman200/pgastats/issues"
+  },
+  "homepage": "https://github.com/bnewman200/pgastats#readme"
+}
